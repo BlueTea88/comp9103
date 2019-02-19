@@ -1,0 +1,31 @@
+name Posephine Bloggs
+birthday 01-06-1980
+address 1 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 02111111
+pet Dog Cat
+
+name Posephine Esmerelda Bloggs
+birthday 13-05-1960
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+phone 11222009
+
+name Patricia Davies
+birthday 03-06-2008
+address 61 Gibbes St,, Rockdale,, NSW
+postcode 2216
+phone 00220000
+pet Bird Cat
+
+name Mary Brown
+postcode 2010
+phone 10001110
+pet Cat Bird
+
+name Linda H Evans
+birthday 02-06-1980
+address 90 Chester Crescent, Chatswood, NSW
+postcode 2067
+phone 08100013
+pet Lizard

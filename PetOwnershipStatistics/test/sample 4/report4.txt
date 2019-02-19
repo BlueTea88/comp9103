@@ -1,0 +1,28 @@
+------query name Tom White------
+--------------------------------
+
+------query name Tom White------
+name Tom White
+birthday 14-12-1987
+address 630 Forest Rd, Penshurst NSW
+postcode 2222
+phone 23000000
+pet Dog Bird
+--------------------------------
+
+------query 2222 age------
+Available pet owner size: 7
+Age profile:
+Below 18: 14.29%
+Over 18 and Below 65: 71.43%
+Over 65: 14.29%
+Unknown: 0.00%
+--------------------------
+
+------query pet------
+Lizard: 5; postcode 2222
+Bird: 3; postcode 2016
+Cat: 3; postcode 2222, 2016
+Dog: 4; postcode 2222
+Pig: 1; postcode 2222, 2057, 2066
+---------------------

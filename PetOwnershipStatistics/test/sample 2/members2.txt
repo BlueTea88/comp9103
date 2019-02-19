@@ -1,0 +1,18 @@
+phone 01012221
+name Posephine Bloggs
+pet bird cat
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+
+name Posephine Esmerelda Bloggs
+birthday 13/05/1960
+postcode 2130
+phone 11222009
+address 102 Smith St, Summer hill, NSW
+
+name Patricia Davies
+birthday 03/06/2008
+phone 00220000
+pet bird cat
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216

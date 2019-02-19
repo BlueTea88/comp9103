@@ -1,0 +1,9 @@
+query name   test person
+query 2000   age 
+query PET   
+sort Name
+sort nothing
+testing
+delete abc
+delete abc; 123
+delete abc; 123 a;s adf

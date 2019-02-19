@@ -1,0 +1,32 @@
+name Jo Bloggs
+birthday 18/02/2003
+address 9001 Chester Crescent, Chatswood, NSW
+postcode 2057
+phone 88884444
+pet bird
+
+name Linda H Evans
+address 1 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 03222215
+pet pig
+
+name Patricia Davies
+birthday 03/06/2008
+address 61 Gibbes St, Rockdale, NSW
+postcode 2216
+phone 00220000
+pet bird cat
+
+name Posephine Esmerelda Bloggs
+birthday 13/05/1960
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+phone 11222009
+
+name Tom Swift
+birthday 01/01/2013
+address 12 Campus Street, Darlington, NSW
+postcode 2008
+phone 00111233
+pet dog cat

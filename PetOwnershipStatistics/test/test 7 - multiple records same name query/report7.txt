@@ -1,0 +1,32 @@
+------query name Posephine Bloggs------
+name Posephine Bloggs
+birthday 01-06-1980
+address 1 Grace Street, Lane Cove, NSW
+postcode 2066
+phone 02111111
+pet Dog Cat
+
+name Posephine Bloggs
+birthday 13-05-1960
+address 102 Smith St, Summer hill, NSW
+postcode 2130
+phone 11222009
+---------------------------------------
+
+------query name mary brown------
+name Mary Brown
+birthday 03-06-2008
+postcode 1234
+phone 00102211
+
+name Mary Brown
+birthday 03-06-2008
+postcode 2016
+phone 01900000
+pet Dog Cat Bird
+
+name Mary Brown
+postcode 2010
+phone 10001110
+pet Cat Bird
+---------------------------------

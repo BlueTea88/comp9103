@@ -1,0 +1,24 @@
+update name Jo Bloggs; birthday 08-07-1998; phone 88884444; address 9001 Chester Crescent, Chatswood, NSW; postcode 2057
+
+update name Jo Bloggs; phone 88884444; pet bird
+
+update phone 001223456; name Linda Evans; birthday 1-1-2013; address 1 Grace Street, Lane Cove, NSW
+
+update phone 0df22215; name Linda Evans; address 1 Grace Street, Lane Cove, NSW; postcode 2066;
+
+update phone 03222215; name Linda H Evans; address 1 Grace Street, Lane Cove, NSW, postcode 2066; pet pig
+
+delete Patricia Davies; 55552221
+
+update phone 88884444; name Jo Bloggs; birthday 18-2-2003
+
+update phone 00111233; name Tom Swift; birthday 1-1-2013; address 12 Campus Street, Darlington, NSW; postcode 2008; pet dog cat
+
+delete Posephine Bloggs; 01012221
+
+update mobile 13101132; name Thomas Swan; fee $50; pass Gold; address 2 Campus Street, Sydney, NSW; postcode 2000; pet bird
+
+delete Posephine Bloggs; 01012221
+
+
+
