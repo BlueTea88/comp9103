@@ -1,2 +1,2 @@
 # comp9103
-Introduction to Java - tutorials and assignment
+Tutorials and assignment from introduction to java course.
